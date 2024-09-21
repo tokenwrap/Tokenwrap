@@ -12,7 +12,7 @@ x:  https://x.com/tokenwrap
 
 medium: https://tokenwrap.medium.com
 
-whitepaper: https://docs.tokenwrap/finance
+whitepaper: https://docs.tokenwrap.finance
 
 github: https://github.com/tokenwrap
 
