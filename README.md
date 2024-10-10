@@ -1,21 +1,9 @@
 ## Tokenwrap 🌯
 
-![](https://docs.tokenwrap.finance/~gitbook/image?url=https%3A%2F%2F345972223-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FTu1Q5Pm27MK3wqIhXigt%252Fuploads%252FQedVIs72490m1uUAfuFZ%252F1500x500%2520%282%29.jpeg%3Falt%3Dmedia%26token%3Dd05db483-2ffb-4576-a920-7184b6867eb6&width=768&dpr=2&quality=100&sign=e3e8e30a&sv=1)
+[![image](https://github.com/user-attachments/assets/ba1bcdac-b6ff-42a3-8802-244b7c2545aa)
+](https://youtu.be/yzYF6lWfYgY)
 
-**website:** https://tokenwrap.finance
+**linktree:**: https://linktr.ee/tokenwrap
 
-**dapp:** https://app.tokenwrap.finance
-
-**telegram:** https://t.me/tokenwrap
-
-**x:**  https://x.com/tokenwrap
-
-**medium:** https://tokenwrap.medium.com
-
-**whitepaper:** https://docs.tokenwrap.finance
-
-**github:** https://github.com/tokenwrap
-
-**youtube:** www.youtube.com/@tokenwrap
-
-**contact us:** info@tokenwrap.finance
+In the rapidly evolving world of DeFi, liquidity is the lifeblood that enables projects to grow and thrive. However, one of the most significant challenges faced by token projects, especially meme coins and niche assets, is their ability to expand liquidity across multiple blockchain ecosystems. Typically, liquidity is fragmented, and token projects are often confined to a single chain, limiting their growth potential and accessibility.
+Tokenwrap is designed to break down these barriers. We provide a decentralized, seamless, and automated solution that allows any token—whether it's a popular meme coin or a niche asset—to be wrapped and moved across multiple blockchains like Solana, Ethereum, and beyond. Our goal is to empower developers and token holders to unlock the full potential of their assets by enabling cross-chain liquidity without the need for intermediaries, costly bridges, or fragmented token versions.
